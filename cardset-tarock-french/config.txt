@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;4;.gif;3;78;8,27,1001
+cardset-tarock-french;French Tarock
+79 146 8
+20 23 7 7
+back01.gif
+back01.gif
