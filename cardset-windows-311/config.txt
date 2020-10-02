@@ -1,0 +1,6 @@
+PySolFC solitaire cardset;5;.gif;1;52;7,17,1018;1989
+cardset-windows-311;Windows 3.11
+71 96 8
+14 14 7 7
+back01.gif
+back01.gif;back02.gif;back03.gif;back04.gif;back05.gif;back06.gif;back07.gif;back08.gif;back09.gif;back10.gif;back11.gif;back12.gif
